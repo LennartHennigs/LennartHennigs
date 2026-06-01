@@ -4,7 +4,8 @@
 
 Most of my professional life is spent in UX design — but when I'm not thinking about users, I sometimes tinker with hardware. 
 
-Here is where the code lives.
+Here is where the code lives. <br />
+If you find any of it helpful consider giving it a star ⭐️ or <a href="https://ko-fi.com/B0B0C6EOD">buy me a coffee</a> ☕️.
 
 [![GitHub Stars](https://img.shields.io/github/stars/lennarthennigs)](https://github.com/LennartHennigs)
 
@@ -17,10 +18,6 @@ Here is where the code lives.
 | [ESPRotary](https://github.com/LennartHennigs/ESPRotary) | Rotary encoder library for ESP8266 / ESP32 |
 | [SimpleFSM](https://github.com/LennartHennigs/SimpleFSM) | Simple finite state machine library for Arduino |
 | [mmWaveKit](https://github.com/LennartHennigs/mmWaveKit) | Arduino library for mmWave radar sensors |
-
-If you find them helpful consider buying me a coffee.
-<br />
-<a href="https://ko-fi.com/B0B0C6EOD"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=6" height="36" alt="ko-fi"></a>
 
 ### Notes & Guides
 
