@@ -5,7 +5,7 @@
 Most of my professional life is spent in UX design — but when I'm not thinking about users, I sometimes tinker with hardware. 
 
 Here is where the code lives. <br />
-If you find any of it helpful consider giving it a star ⭐️ or <a href="https://ko-fi.com/B0B0C6EOD">buy me a coffee</a> ☕️.
+If you find any of it helpful consider giving it a star or <a href="https://ko-fi.com/B0B0C6EOD">buy me a coffee</a> ☕️.
 
 [![GitHub Stars](https://img.shields.io/github/stars/lennarthennigs)](https://github.com/LennartHennigs)
 
