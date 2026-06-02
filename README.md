@@ -1,4 +1,4 @@
-##  👋 Hi, I am Lennart.
+#  👋 Hi, I am Lennart.
 
 > Senior Director of User Experience by day, Creative Technologist by night.
 
