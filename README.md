@@ -11,13 +11,42 @@ If you find any of it helpful consider giving it a star or <a href="https://ko-f
 
 ### Arduino Libraries
 
-<table><thead><tr><th width="240">Project</th><th width="560">Description</th></tr></thead><tbody>
-<tr><td><a href="https://github.com/LennartHennigs/Button2">Button2</a></td><td>Feature-rich Arduino button library with callback support</td></tr>
-<tr><td><a href="https://github.com/LennartHennigs/ESPTelnet">ESPTelnet</a></td><td>Telnet server library for ESP8266 / ESP32</td></tr>
-<tr><td><a href="https://github.com/LennartHennigs/ESPRotary">ESPRotary</a></td><td>Rotary encoder library for ESP8266 / ESP32</td></tr>
-<tr><td><a href="https://github.com/LennartHennigs/SimpleFSM">SimpleFSM</a></td><td>Simple finite state machine library for Arduino</td></tr>
-<tr><td><a href="https://github.com/LennartHennigs/mmWaveKit">mmWaveKit</a></td><td>Arduino library for mmWave radar sensors</td></tr>
-</tbody></table>
+<table>
+  <thead>
+    <tr>
+      <th width="200">Project</th>
+      <th width="480">Description</th>
+      <th width="120">Stars</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/LennartHennigs/Button2">Button2</a></td>
+      <td>Feature-rich Arduino button library with callback support</td>
+      <td><img src="https://img.shields.io/github/stars/lennarthennigs/button2" alt="Button2 stars" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/LennartHennigs/ESPTelnet">ESPTelnet</a></td>
+      <td>Telnet server library for ESP8266 / ESP32</td>
+      <td><img src="https://img.shields.io/github/stars/lennarthennigs/esptelnet" alt="ESPTelnet stars" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/LennartHennigs/ESPRotary">ESPRotary</a></td>
+      <td>Rotary encoder library for ESP8266 / ESP32</td>
+      <td><img src="https://img.shields.io/github/stars/lennarthennigs/espRotary" alt="ESPRotary stars" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/LennartHennigs/SimpleFSM">SimpleFSM</a></td>
+      <td>Simple finite state machine library for Arduino</td>
+      <td><img src="https://img.shields.io/github/stars/lennarthennigs/simplefsm" alt="SimpleFSM stars" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/LennartHennigs/mmWaveKit">mmWaveKit</a></td>
+      <td>Arduino library for mmWave radar sensors</td>
+      <td><img src="https://img.shields.io/github/stars/lennarthennigs/mmwavekit" alt="mmWaveKit stars" /></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Retro Computing
 
