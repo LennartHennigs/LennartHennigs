@@ -16,34 +16,34 @@ If you find any of it helpful consider giving it a star or <a href="https://ko-f
     <tr>
       <th width="200">Project</th>
       <th width="480">Description</th>
-      <th width="120">Stars</th>
+      <th width="80">Stars⭐️⭐️⭐️</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/LennartHennigs/Button2">Button2</a></td>
       <td>Feature-rich Arduino button library with callback support</td>
-      <td><img src="https://img.shields.io/github/stars/lennarthennigs/button2" alt="Button2 stars" /></td>
+      <td><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/lennarthennigs/button2&query=$.stargazers_count&label=%20" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/LennartHennigs/ESPTelnet">ESPTelnet</a></td>
       <td>Telnet server library for ESP8266 / ESP32</td>
-      <td><img src="https://img.shields.io/github/stars/lennarthennigs/esptelnet" alt="ESPTelnet stars" /></td>
+      <td><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/lennarthennigs/esptelnet&query=$.stargazers_count&label=%20" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/LennartHennigs/ESPRotary">ESPRotary</a></td>
       <td>Rotary encoder library for ESP8266 / ESP32</td>
-      <td><img src="https://img.shields.io/github/stars/lennarthennigs/espRotary" alt="ESPRotary stars" /></td>
+      <td><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/lennarthennigs/esprotary&query=$.stargazers_count&label=%20" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/LennartHennigs/SimpleFSM">SimpleFSM</a></td>
       <td>Simple finite state machine library for Arduino</td>
-      <td><img src="https://img.shields.io/github/stars/lennarthennigs/simplefsm" alt="SimpleFSM stars" /></td>
+      <td><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/lennarthennigs/simplefsm&query=$.stargazers_count&label=%20" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/LennartHennigs/mmWaveKit">mmWaveKit</a></td>
       <td>Arduino library for mmWave radar sensors</td>
-      <td><img src="https://img.shields.io/github/stars/lennarthennigs/mmwavekit" alt="mmWaveKit stars" /></td>
+      <td><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/lennarthennigs/mmwavekit&query=$.stargazers_count&label=%20" /></td>
     </tr>
   </tbody>
 </table>
