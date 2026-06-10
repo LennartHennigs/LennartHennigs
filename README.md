@@ -16,7 +16,7 @@ If you find any of it helpful consider giving it a star or <a href="https://ko-f
     <tr>
       <th width="200">Project</th>
       <th width="480">Description</th>
-      <th width="80">Stars⭐️⭐️⭐️</th>
+      <th width="80">Stars</th>
     </tr>
   </thead>
   <tbody>
